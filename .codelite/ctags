@@ -1,0 +1,85 @@
+std	C:\Users\MIHNEAANDREIDINU\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^namespace std { template<typename _Tp> class shared_ptr {$/;"	namespace	line:1
+shared_ptr	C:\Users\MIHNEAANDREIDINU\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^namespace std { template<typename _Tp> class shared_ptr { $/;"	class	line:1	namespace:std
+operator ->	C:\Users\MIHNEAANDREIDINU\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    _Tp* operator->();$/;"	prototype	line:2	class:std::shared_ptr	access:private	signature:()	returns:_Tp 
+reset	C:\Users\MIHNEAANDREIDINU\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr );$/;"	prototype	line:3	class:std::shared_ptr	access:private	signature:( Y* ptr )	returns:void 
+reset	C:\Users\MIHNEAANDREIDINU\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr, Deleter d );$/;"	prototype	line:4	class:std::shared_ptr	access:private	signature:( Y* ptr, Deleter d )	returns:void 
+reset	C:\Users\MIHNEAANDREIDINU\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    void reset( Y* ptr, Deleter d, Alloc alloc );$/;"	prototype	line:5	class:std::shared_ptr	access:private	signature:( Y* ptr, Deleter d, Alloc alloc )	returns:void 
+get	C:\Users\MIHNEAANDREIDINU\AppData\Roaming\codelite\tmp\codelite_templates.hpp	/^    _T* get() const;$/;"	prototype	line:6	class:std::shared_ptr	access:private	signature:() const	returns:_T 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+display_board	D:\C++\Projects\TicTacToe\TicTacToe\main.cpp	/^void display_board(const vector<vector<int>> &board);$/;"	prototype	line:6	signature:(const vector<vector<int>> &board)	returns:void 
+modify_board	D:\C++\Projects\TicTacToe\TicTacToe\main.cpp	/^void modify_board(vector <vector<int>> &board, const int &position, const int &player);$/;"	prototype	line:7	signature:(vector <vector<int>> &board, const int &position, const int &player)	returns:void 
+verify_game_status	D:\C++\Projects\TicTacToe\TicTacToe\main.cpp	/^int verify_game_status( const vector <vector<int>> &board);$/;"	prototype	line:8	signature:( const vector <vector<int>> &board)	returns:int 
+verify_game_status	D:\C++\Projects\TicTacToe\TicTacToe\main.cpp	/^int verify_game_status( const vector <vector<int>> &board) {$/;"	function	line:10	signature:( const vector <vector<int>> &board)	returns:int 
+modify_board	D:\C++\Projects\TicTacToe\TicTacToe\main.cpp	/^void modify_board(vector <vector<int>> &board, const int &position, const int &player) {$/;"	function	line:37	signature:(vector <vector<int>> &board, const int &position, const int &player)	returns:void 
+game	D:\C++\Projects\TicTacToe\TicTacToe\main.cpp	/^void game(vector <vector<int>> &board) {$/;"	function	line:44	signature:(vector <vector<int>> &board)	returns:void 
+init_board	D:\C++\Projects\TicTacToe\TicTacToe\main.cpp	/^void init_board(vector <vector<int>> &board){$/;"	function	line:103	signature:(vector <vector<int>> &board)	returns:void 
+display_board	D:\C++\Projects\TicTacToe\TicTacToe\main.cpp	/^void display_board(const vector <vector<int>> &board) {$/;"	function	line:109	signature:(const vector <vector<int>> &board)	returns:void 
+main	D:\C++\Projects\TicTacToe\TicTacToe\main.cpp	/^int main()$/;"	function	line:123	signature:()	returns:int 
+
+
+
+
+
+
+
+
+
+
